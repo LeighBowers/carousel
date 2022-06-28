@@ -3,7 +3,7 @@
 /**
  * @package CustomCarousel
  * Plugin Name:       Our Custom Plugin 
- * Description:       Created carousel plugin from scratch 
+ * Description:       Created wordpress carousel plugin from scratch 
  * Version:           1.10.3
  * Requires at least: 5.2
  * Requires PHP:      7.2
